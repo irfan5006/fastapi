@@ -33,13 +33,14 @@ fastapi/
 └── .gitignore          # Ignored files and folders
 ```
 
-## Installation
+## Requirements
 
-Clone the repository and install dependencies:
+- Python 3.10  
+- pip  
 
-```bash id="3v8a0k"
+Install dependencies:
+
 pip install -r requirements.txt
-```
 
 ## Running the Application
 
